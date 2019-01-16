@@ -1,2 +1,0 @@
-# Adam
-Created with CodeSandbox
